@@ -1,5 +1,6 @@
 #include <cstdio>
 #include <iostream>
+#define M=5;
 
 
 int main(){
